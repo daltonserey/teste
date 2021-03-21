@@ -1,2 +1,0 @@
-# dalton
-print(2)
